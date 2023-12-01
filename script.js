@@ -21,4 +21,4 @@ else
     document.querySelector('h1').innerHTML = "It's a Tie/Draw!";
 }
 
-# B.R.NayanaTara
+
