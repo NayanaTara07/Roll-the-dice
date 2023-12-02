@@ -1,3 +1,4 @@
 # Roll-the-dice
 Front End Game website
-[Roll-the-dice](https://nayanatara07.github.io/Roll-the-dice/){:target="_blank"}
+
+<a href="https://nayanatara07.github.io/Roll-the-dice/" target="blank">Roll-the-dice</a>
