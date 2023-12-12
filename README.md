@@ -11,7 +11,6 @@ A simple web-based dice roll game built using HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
